@@ -1,22 +1,11 @@
 **Overview**
 
-This repository focuses on data cleaning, a critical preprocessing step in data mining and analytics workflows. Cleaning raw data ensures accuracy, consistency, and usability, preparing datasets for reliable analysis and machine learning models. The project highlights various methods for identifying and handling data quality issues, such as missing values, duplicate records, outliers, and inconsistent formats.
+This project is focused on data cleaning techniques, which is a critical step in the data mining process. Proper cleaning of data helps in improving the quality of data, removing inconsistencies, and ensuring that models trained on the cleaned data will have better performance. The project specifically applies Linear Regression and Logistic Regression on cleaned data for predictive modeling.
 
-**Key Features**
+The key goal of this project is to demonstrate how proper data cleaning can improve the performance of machine learning models like Linear Regression and Logistic Regression, and how they can be applied to real-world datasets after cleaning.
 
-**Comprehensive Data Cleaning Techniques:**
+**Key Components:**
 
-- Handling missing data (imputation, removal, or interpolation).
-- Detecting and resolving duplicate entries.
-- Managing outliers using statistical methods.
-- Addressing inconsistent or incorrect formatting.
-- Standardizing categorical and text data.
-
-**Automated Scripts:**
-
-- Reusable Python scripts for scalable data cleaning tasks.
-- Integration with pandas and other data manipulation libraries.
-
-**Visualization for Quality Assessment:**
-
-- Charts and plots to identify trends, anomalies, and missing data.
+- **Data Cleaning:** Handling missing values, removing duplicates, fixing inconsistencies, and transforming data into a usable format.
+- **Linear Regression:** Used for predicting continuous variables.
+- **Logistic Regression:** Applied for binary classification tasks.
